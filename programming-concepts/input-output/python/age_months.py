@@ -10,5 +10,9 @@ def main():
     print(f"Wow, you have been alive for around {months} months!")
 
 
+# This code will run if this file is executed directly
+# (i.e. not called by another program)
+
+
 if __name__ == '__main__':
     main()    
